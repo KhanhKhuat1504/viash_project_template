@@ -388,7 +388,7 @@ FROM eddelbuettel/r2u:22.04
 
 RUN :
 LABEL org.opencontainers.image.description="Companion container for running component demo combine_columns"
-LABEL org.opencontainers.image.created="2024-01-17T15:09:49Z"
+LABEL org.opencontainers.image.created="2024-01-18T11:09:33Z"
 LABEL org.opencontainers.image.source="https://github.com/viash-io/viash_project_template"
 LABEL org.opencontainers.image.revision="b0cc4dabd3306bff1850d0e879eebf9fe81f350d"
 LABEL org.opencontainers.image.version="main_build"
